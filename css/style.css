@@ -263,3 +263,10 @@ main {
     width: 92vw;
   }
 }
+
+hr{
+  border: 0;
+  height: 1px;
+  background: rgb(238, 238, 238);
+  background-image: linear-gradient(to right, rgb(206, 52, 52), rgb(156, 32, 32), rgb(255, 181, 181));
+}
